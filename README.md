@@ -1,2 +1,2 @@
 # learn-Vue
-learn Vue recording
+this is my recording of learning Vue
